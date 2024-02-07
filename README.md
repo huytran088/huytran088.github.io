@@ -1,2 +1,2 @@
-# huytran088.github.io
-Portfolio website
+# Portfolio website
+My personal website, showcasing my portfolio
